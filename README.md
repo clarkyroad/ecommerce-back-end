@@ -19,6 +19,9 @@ It performs initializing records for service offers and technology stacks for ec
 
 ---
 
+## Pre-requisites
+In PostgreSQL or pgadmin, create a database "ecommerce"
+
 ## To run the application in windows
 Run the Command:
 "gradlew bootRun"
